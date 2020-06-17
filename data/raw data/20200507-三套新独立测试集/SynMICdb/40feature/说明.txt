@@ -1,0 +1,2 @@
+SynMICdb_score5_deltrain_out_delnan_closeby.vcf为正样本
+SynMICdb_score-2.5_deltrain_out_delnan_closeby.vcf为负样本
